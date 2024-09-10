@@ -1,0 +1,14 @@
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/bin/Debug/net8.0/funkcja-szescienna
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/bin/Debug/net8.0/funkcja-szescienna.deps.json
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/bin/Debug/net8.0/funkcja-szescienna.runtimeconfig.json
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/bin/Debug/net8.0/funkcja-szescienna.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/bin/Debug/net8.0/funkcja-szescienna.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.AssemblyInfoInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.AssemblyInfo.cs
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.csproj.CoreCompileInputs.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/refint/funkcja-szescienna.dll
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.pdb
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/funkcja-szescienna.genruntimeconfig.cache
+/Users/kacper.glowczyk/Desktop/algorytmy/funkcja-szescienna/funkcja-szescienna/obj/Debug/net8.0/ref/funkcja-szescienna.dll
